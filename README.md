@@ -1,3 +1,3 @@
 ﻿# CuriousJr_Assignment
  
- Web Link: https://github.com/dip0011/CuriousJr_Assignment/settings/pages
+ Web Link: https://dip0011.github.io/CuriousJr_Assignment/
